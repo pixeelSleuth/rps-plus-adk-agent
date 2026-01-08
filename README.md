@@ -80,8 +80,10 @@ Referee: Round 2: You tried to use bomb again, but it's already been used. Round
 
 Referee: Round 3: You played paper, and the bot played rock. You win the round!
 The game is over, and you are the final winner!
+```
 
-## 🚀 How to Run
+
+## How to Run
 
 1.  **Install Dependencies:**
     ```bash
